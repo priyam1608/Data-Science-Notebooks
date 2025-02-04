@@ -1,0 +1,13 @@
+scikit learn modules:-
+
+1) datasets
+2) model_selection
+3) svm
+4) tree
+5) ensemble
+6) linear_model
+7) preprocessing
+8) compose
+9) metric
+10)cluster
+11)naive bayes
